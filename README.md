@@ -16,14 +16,14 @@ __________________________________________________________________
 __Example Use: 1)__
 Please Provide a ticker or list of tickers to begin: (ex: tsla / tsla appl nvda) 
 > MU
- -------------- 
+ -
  Please Select an Option: 
  1. General Info & Moving Averages
  2. Stock Risk & Comparisons
  3. Simulate Portfolio
- -------------- 
+ -
 > 1
- -------------- 
+ - 
 Please select a starting date 
 > 2019-01-01
 Please select an ending date 
@@ -32,14 +32,14 @@ __________________________________________________________________
 __Example Use: 2) & 3)__
 Please Provide a ticker or list of tickers to begin: (ex: tsla / tsla appl nvda) 
 > MU AAPL NVDA F FB BYND
- -------------- 
+ -
  Please Select an Option: 
  1. General Info & Moving Averages
  2. Stock Risk & Comparisons
  3. Simulate Portfolio
- -------------- 
+ - 
 > 1
- -------------- 
+ - 
 Please select a starting date 
 > 2019-01-01
 Please select an ending date 
