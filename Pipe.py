@@ -24,8 +24,8 @@ print(Fore.WHITE+ ' -------------- ')
 Selection = input('> ')
 
 print(Fore.WHITE + ' -------------- ')
-user_start = input(Fore.BLUE + 'Please select a starting date \n> ')
-user_end = input(Fore.BLUE + 'Please select an ending date \n> ')
+user_start = input(Fore.BLUE + 'Please select a starting date (ex: 2018-01-01) \n> ')
+user_end = input(Fore.BLUE + 'Please select an ending date (ex: 2020-07-14) \n> ')
 
 
 def __main__():
