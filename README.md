@@ -1,5 +1,5 @@
 # PipeLine
-Stock trading assistant for individual stock and complete portfolio analysis. **Under Construction**
+Stock trading assistant for individual stock and complete portfolio analysis.
 
 
 This algorithm requires the use of < **Pandas, Yfinance, Matplotlib, Colorama, Numpy, Seaborn, and Random** >.
