@@ -1,4 +1,4 @@
-# Command Line PipeLine for Stock Analysis
+# Command Line PipeLine
 Stock trading assistant for individual stock and complete portfolio analysis.
 
 
