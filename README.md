@@ -10,7 +10,7 @@ Walkthrough:
 
 ** LIST ** Selection 2) Volatility, Return, and Correlation comparison between input list of stocks 
 
-** LIST ** Selection 3) Portfolio Simualations for Predicting the Future of your input list.
+** LIST ** Selection 3) Portfolio Simulations for Predicting the Future of your input list.
 
 __________________________________________________________________
 __Example Use: 1)__
